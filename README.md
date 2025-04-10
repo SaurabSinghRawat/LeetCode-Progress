@@ -36,3 +36,15 @@ Feel free to fork and contribute by submitting new solutions or improving existi
 For any queries or discussions, reach out via email or open an issue in this repository.<br><br><br><br>
 
 Happy Coding :-) 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0027-remove-element) |
+<!---LeetCode Topics End-->
