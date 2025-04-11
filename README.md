@@ -37,14 +37,3 @@ For any queries or discussions, reach out via email or open an issue in this rep
 
 Happy Coding :-) 🚀
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
-<!---LeetCode Topics End-->
