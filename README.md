@@ -47,6 +47,7 @@ Happy Coding :-) 🚀
 ## Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
@@ -56,4 +57,8 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
