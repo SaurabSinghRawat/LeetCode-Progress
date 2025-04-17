@@ -32,11 +32,8 @@ Feel free to fork and contribute by submitting new solutions or improving existi
 ## 📧 Contact
 For any queries or discussions, reach out via email or open an issue in this repository.<br><br><br><br>
 
-Happy Coding :-) 🚀
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+# Topicwise Classification
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +92,6 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
-<!---LeetCode Topics End-->
+
+
+Happy Coding :-) 🚀
