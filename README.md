@@ -25,9 +25,6 @@ This repository helps track and improve coding skills by solving LeetCode proble
 - [Hackerrank](https://www.hackerrank.com/)
 - [NeetCode](https://neetcode.io/)<br><br>
 
-## ✅ Topics Covered
-- Arrays
-- Strings<br><br>
 
 ## 🤝 Contributions
 Feel free to fork and contribute by submitting new solutions or improving existing ones.<br><br>
