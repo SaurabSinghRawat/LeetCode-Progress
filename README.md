@@ -64,10 +64,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
-## Binary Search
-|  |
-| ------- |
-| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +99,25 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0038-count-and-say) |
+## Array
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+## Sorting
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
