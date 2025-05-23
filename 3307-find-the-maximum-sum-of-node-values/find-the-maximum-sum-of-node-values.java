@@ -10,8 +10,7 @@ class Solution {
     private long maxSumOfNodes(int index, int isEven, int[] nums, int k,
             long[][] memo) {
         if (index == nums.length) {
-            // If the operation is performed on an odd number of elements return
-            // INT_MIN
+           
             return isEven == 1 ? 0 : Integer.MIN_VALUE;
         }
         if (memo[index][isEven] != -1) {
