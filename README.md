@@ -49,13 +49,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
-## Array
-|  |
-| ------- |
-| [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
-| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
-| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
-| [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
+
 
 ## Divide and Conquer
 |  |
@@ -129,4 +123,12 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
+## Depth-First Search
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Graph
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
