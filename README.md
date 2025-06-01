@@ -36,10 +36,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 # Topicwise Classification
 
 
-## Combinatorics
-|  |
-| ------- |
-| [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
+
 
 ## Recursion
 |  |
