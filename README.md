@@ -40,11 +40,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
-## Enumeration
-|  |
-| ------- |
-| [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
-| [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
+
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +114,7 @@ Happy Coding :-) 🚀
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 ## Greedy
 |  |
@@ -131,4 +128,15 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
+| [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
+| [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
+| [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
