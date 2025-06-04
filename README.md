@@ -78,6 +78,7 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0038-count-and-say) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Happy Coding :-) 🚀
 | [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
 | ------- |
