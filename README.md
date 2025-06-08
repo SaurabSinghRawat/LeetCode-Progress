@@ -131,6 +131,7 @@ Happy Coding :-) 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -162,4 +163,8 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
