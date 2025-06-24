@@ -90,11 +90,13 @@ Happy Coding :-) 🚀
 | [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
 | ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
