@@ -78,6 +78,7 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0038-count-and-say) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -130,6 +131,7 @@ Happy Coding :-) 🚀
 | ------- |
 | [0135-candy](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
@@ -151,6 +153,7 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -171,4 +174,12 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0386-lexicographical-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Counting
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
