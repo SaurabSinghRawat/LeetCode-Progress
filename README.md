@@ -133,6 +133,7 @@ Happy Coding :-) 🚀
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -208,11 +209,13 @@ Happy Coding :-) 🚀
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
