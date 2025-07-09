@@ -62,10 +62,6 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
 
-
-
-Happy Coding :-) 🚀
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
@@ -233,3 +229,5 @@ Happy Coding :-) 🚀
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
+
+Happy Coding :-) 🚀
