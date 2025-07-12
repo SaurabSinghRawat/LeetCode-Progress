@@ -208,6 +208,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Dynamic Programming
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -233,6 +234,10 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
 
 Happy Coding :-) 🚀
