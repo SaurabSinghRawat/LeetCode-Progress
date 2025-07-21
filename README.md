@@ -232,6 +232,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -251,6 +252,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0021-merge-two-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
 
