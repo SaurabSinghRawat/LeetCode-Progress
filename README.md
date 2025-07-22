@@ -89,6 +89,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -130,6 +131,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
@@ -215,6 +217,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
