@@ -97,6 +97,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -123,6 +124,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -237,6 +239,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -250,6 +253,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
 |  |
