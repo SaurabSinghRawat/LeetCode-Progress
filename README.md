@@ -57,10 +57,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
-## Ordered Set
-|  |
-| ------- |
-| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -112,6 +109,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +127,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +279,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -297,6 +297,16 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
 
 Happy Coding :-) 🚀
