@@ -158,6 +158,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -263,6 +264,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -273,6 +275,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
