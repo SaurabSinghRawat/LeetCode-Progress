@@ -259,6 +259,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0826-soup-servings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Prefix Sum
