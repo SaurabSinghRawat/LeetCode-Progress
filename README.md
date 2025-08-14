@@ -67,6 +67,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3617-find-the-original-typed-string-i) |
