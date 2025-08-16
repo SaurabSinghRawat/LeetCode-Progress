@@ -168,6 +168,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0826-soup-servings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
@@ -178,6 +179,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [0135-candy](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2497-maximum-matching-of-players-with-trainers) |
