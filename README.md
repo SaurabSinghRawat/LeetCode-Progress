@@ -85,6 +85,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0934-bitwise-ors-of-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -271,6 +272,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0826-soup-servings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
@@ -340,6 +342,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
