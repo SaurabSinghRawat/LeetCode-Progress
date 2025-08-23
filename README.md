@@ -109,6 +109,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -219,6 +220,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
@@ -347,6 +349,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
