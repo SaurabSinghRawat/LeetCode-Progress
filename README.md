@@ -79,6 +79,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0135-candy) |
+| [0498-diagonal-traverse](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
@@ -315,6 +316,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
@@ -350,6 +352,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
