@@ -76,6 +76,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0135-candy) |
@@ -150,6 +151,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
@@ -250,6 +252,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -352,6 +355,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1628-count-submatrices-with-all-ones) |
