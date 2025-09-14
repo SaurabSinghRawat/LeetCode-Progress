@@ -63,6 +63,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [0038-count-and-say](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
+| [1006-vowel-spellchecker](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -86,6 +87,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -156,6 +158,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
