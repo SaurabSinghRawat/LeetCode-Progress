@@ -70,6 +70,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3617-find-the-original-typed-string-i) |
@@ -108,6 +109,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -166,6 +168,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -250,6 +253,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
@@ -335,6 +339,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 ## Memoization
 |  |
 | ------- |
@@ -358,6 +363,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
