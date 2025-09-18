@@ -175,6 +175,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2689-rearranging-fruits](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2689-rearranging-fruits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
+| [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -256,6 +257,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
@@ -340,6 +342,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
 ## Memoization
 |  |
 | ------- |
@@ -364,6 +367,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
