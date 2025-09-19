@@ -76,6 +76,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [3617-find-the-original-typed-string-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -343,6 +346,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Memoization
 |  |
 | ------- |
@@ -379,6 +383,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1628-count-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Probability and Statistics
 |  |
 | ------- |
