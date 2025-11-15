@@ -119,6 +119,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3373-maximum-prime-difference](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3373-maximum-prime-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -198,6 +199,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
+| [3373-maximum-prime-difference](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3373-maximum-prime-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -399,6 +401,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3373-maximum-prime-difference](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
 
 Happy Coding :-) 🚀
