@@ -193,6 +193,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -396,6 +397,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
 
