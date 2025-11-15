@@ -1,18 +1,17 @@
 class Solution {
     public int findKthNumber(int n, int k) {
-        int curr = 1; // Start at '1'
-        k--; // We start from the first number, so we need k-1 steps
+        int curr = 1; 
+        k--; 
 
         while (k > 0) {
             long steps = countSteps(n, curr, curr + 1);
+
             if (steps <= k) {
-                
-                curr++;
-                k -= steps;
+                curr++;      
+                k -= steps;  
             } else {
-                // Go to the first child
-                curr *= 10;
-                k--;
+                curr *= 10;  
+                k--;         
             }
         }
 
