@@ -101,6 +101,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1656-count-good-triplets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -196,6 +197,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1448-maximum-69-number](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3201-distribute-candies-among-children-ii) |
@@ -400,6 +402,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3373-maximum-prime-difference](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
