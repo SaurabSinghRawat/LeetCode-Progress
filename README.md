@@ -72,6 +72,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
@@ -120,6 +121,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3373-maximum-prime-difference](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3373-maximum-prime-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -271,6 +273,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -309,6 +312,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1628-count-submatrices-with-all-ones](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1628-count-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Prefix Sum
@@ -405,6 +409,14 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3373-maximum-prime-difference](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3373-maximum-prime-difference) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
 
 Happy Coding :-) 🚀
