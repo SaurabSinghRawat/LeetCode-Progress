@@ -77,6 +77,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [3617-find-the-original-typed-string-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3713-longest-balanced-substring-i) |
 | [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Array
 |  |
@@ -182,6 +183,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3713-longest-balanced-substring-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3797-design-spreadsheet) |
 ## Math
@@ -248,6 +250,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3713-longest-balanced-substring-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
