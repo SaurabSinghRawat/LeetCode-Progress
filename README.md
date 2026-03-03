@@ -67,6 +67,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -342,6 +343,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0231-power-of-two](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -350,6 +352,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | ------- |
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3790-fruits-into-baskets-ii) |
