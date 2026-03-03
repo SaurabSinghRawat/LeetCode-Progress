@@ -166,6 +166,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0146-lru-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
@@ -359,6 +360,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/3678-design-task-manager) |
@@ -371,6 +373,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Brainteaser
 |  |
@@ -424,6 +427,10 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
 
 Happy Coding :-) 🚀
