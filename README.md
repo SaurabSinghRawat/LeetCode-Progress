@@ -84,6 +84,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0135-candy) |
@@ -154,6 +155,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
