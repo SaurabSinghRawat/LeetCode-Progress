@@ -88,6 +88,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [0068-text-justification](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0498-diagonal-traverse](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0679-24-game) |
@@ -312,6 +313,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0826-soup-servings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/0934-bitwise-ors-of-subarrays) |
