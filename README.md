@@ -68,6 +68,7 @@ For any queries or discussions, reach out via email or open an issue in this rep
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SaurabSinghRawat/LeetCode-Progress/tree/master/2346-largest-3-same-digit-number-in-string) |
